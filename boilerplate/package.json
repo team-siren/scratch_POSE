@@ -35,12 +35,6 @@
     "parcel-bundler": "~1.10.3",
     "yalc": "~1.0.0-pre.27"
   },
-  "eslintConfig": {
-    "extends": "google",
-    "rules": {
-      "require-jsdoc": 0,
-      "valid-jsdoc": 0
-    },
     "env": {
       "es6": true
     },
